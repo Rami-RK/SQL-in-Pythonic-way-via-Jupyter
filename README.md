@@ -16,4 +16,4 @@ Concept covered:
 8) Where Vs Having
 9) Joins(Inner, Left, Right, Outer, Self)
 10) Many more & Practice Problems on Chinook database
-The importance of SQL in the data science domain  motivates me to compile this quick SQL Starter Notebook: SQL-in-Pythonic-way-via-Jupyter
+* The importance of SQL in the data science domain  motivates me to compile this quick SQL Starter Notebook: SQL-in-Pythonic-way-via-Jupyter
